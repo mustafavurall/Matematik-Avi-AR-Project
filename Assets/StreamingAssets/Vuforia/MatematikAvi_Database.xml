@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="gemi11" size="5.000000 4.312363" />
+    <ImageTarget name="projem" size="5.000000 7.761062" />
+    <ImageTarget name="on" size="5.000000 3.515625" />
+    <ImageTarget name="dokuz" size="5.000000 3.568750" />
+    <ImageTarget name="sekiz" size="5.000000 3.540625" />
+    <ImageTarget name="yedi" size="5.000000 3.512500" />
+    <ImageTarget name="alti" size="6.000000 4.125000" />
+    <ImageTarget name="bes" size="5.000000 3.521875" />
+    <ImageTarget name="dort" size="5.000000 3.581250" />
+    <ImageTarget name="uc" size="5.000000 3.368750" />
+    <ImageTarget name="iki" size="5.000000 3.400000" />
+    <ImageTarget name="bir" size="5.000000 3.656250" />
+    <ImageTarget name="kapak_gorseli" size="5.000000 3.493750" />
+    <ImageTarget name="Zemin" size="4.000000 3.979452" />
+  </Tracking>
+</QCARConfig>
