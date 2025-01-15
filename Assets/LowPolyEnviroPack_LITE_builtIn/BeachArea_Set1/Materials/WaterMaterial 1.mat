@@ -156,7 +156,7 @@ Material:
     - Vector2_F7812540: {r: 6.7, g: 5.2, b: 0, a: 0}
     - _BaseColor: {r: 0, g: 0.37265134, b: 1, a: 1}
     - _BaseColoremissiveA: {r: 0.16592777, g: 0.4266616, b: 0.6838235, a: 0}
-    - _Color: {r: 0, g: 0.37265134, b: 1, a: 1}
+    - _Color: {r: 0, g: 0.3726513, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _SpecColor: {r: 0.2, g: 0.2, b: 0.2, a: 1}
     - _Vector0: {r: 0.2345, g: 0.3456, b: 0, a: 0}
